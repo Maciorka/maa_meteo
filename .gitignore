@@ -1,3 +1,7 @@
 *.pdf
 bin/*
 **/*.class
+
+# gradle
+.gradle/*
+build/**
